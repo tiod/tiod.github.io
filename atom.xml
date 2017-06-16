@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈窃以为</title>
+  <subtitle>Life with me</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://chenjunhong.cn/"/>
+  <updated>2017-06-15T15:00:41.000Z</updated>
+  <id>http://chenjunhong.cn/</id>
+  
+  <author>
+    <name>Chen Junhong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何管理技术团队</title>
+    <link href="http://chenjunhong.cn/2017/05/05/how_to_management_tech_team/"/>
+    <id>http://chenjunhong.cn/2017/05/05/how_to_management_tech_team/</id>
+    <published>2017-05-05T12:44:22.000Z</published>
+    <updated>2017-06-15T15:00:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="技术管理能力"><a href="#技术管理能力" class="headerlink" title="技术管理能力"></a>技术管理能力</h1><p>理解工作职责<br>成熟<br>勇敢<br>热爱技术<br>勤奋<br>脚踏实地：面对技术、管理的问题<br>逻辑能力：<br>公平、透明<br>一线作战精神：区分优先级，深度参与<br>决策能力<br>开发姿态：互联网文化、geek精神<br>为人处世：<br>真诚：<br>宽容：<br>仔细：<br>时间管理：<br>以人为本：</p>
+<h1 id="带领团队心得分享"><a href="#带领团队心得分享" class="headerlink" title="带领团队心得分享"></a>带领团队心得分享</h1><p>人才分类<br>自主能动性<br>内心成长阶段<br>找到圈子</p>
+<h1 id="职业发展建议"><a href="#职业发展建议" class="headerlink" title="职业发展建议"></a>职业发展建议</h1><p> 工程师分类<br> 不要计较职位，更应该看岗位发展前景<br> 培养生存技能</p>
+<h1 id="团队成员品质"><a href="#团队成员品质" class="headerlink" title="团队成员品质"></a>团队成员品质</h1><p> 做事专注<br> 乐于挑战<br> 永不气馁<br> ？</p>
+<h1 id="组建团队"><a href="#组建团队" class="headerlink" title="组建团队"></a>组建团队</h1><p>  明确岗位需求<br>  编写岗位描述<br>  面试技巧：学历、面试题、心理状态观察、性格分析、面试官形象<br>  DISC个性特征理论<br>  人员分类<br>  新员工入职</p>
+<h1 id="管理团队"><a href="#管理团队" class="headerlink" title="管理团队"></a>管理团队</h1><p>  向下管理：技术尊重、团队组成、薪酬组成、进度管理、引导工作、保护成员、评估和改进绩效、任务责任制、裁员、主动沟通、被动沟通、文化冲突、负面效应、会议记录、人才评测机制、下放权力、激励员工<br>  向上管理：理解老板，<br>  对外管理：与部门外、其他部门、平级的人<br>  自我管理：过度管理、形象管理、沟通管理、面对面交流管理</p>
+<h1 id="影响团队因素"><a href="#影响团队因素" class="headerlink" title="影响团队因素"></a>影响团队因素</h1><p>  薪资管理<br>  上升通道<br>  工作时间<br>  避免大规模变革<br>  一言堂<br>  频繁开会</p>
+<h1 id="其他能力"><a href="#其他能力" class="headerlink" title="其他能力"></a>其他能力</h1><p>  理解程序员<br>  左脑型 VS 右脑型<br>  杰出的程序员<br>  小型团队 VS 大型团队<br>  扁平化管理<br>  金州勇士奇迹</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;技术管理能力&quot;&gt;&lt;a href=&quot;#技术管理能力&quot; class=&quot;headerlink&quot; title=&quot;技术管理能力&quot;&gt;&lt;/a&gt;技术管理能力&lt;/h1&gt;&lt;p&gt;理解工作职责&lt;br&gt;成熟&lt;br&gt;勇敢&lt;br&gt;热爱技术&lt;br&gt;勤奋&lt;br&gt;脚踏实地：面对技术、管理的问题&lt;br
+    
+    </summary>
+    
+    
+      <category term="leader" scheme="http://chenjunhong.cn/tags/leader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://chenjunhong.cn/2017/04/12/My-New-Post/"/>
+    <id>http://chenjunhong.cn/2017/04/12/My-New-Post/</id>
+    <published>2017-04-11T16:07:46.000Z</published>
+    <updated>2017-04-12T13:22:54.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Testing" scheme="http://chenjunhong.cn/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://chenjunhong.cn/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://chenjunhong.cn/2017/04/09/hello-world/"/>
+    <id>http://chenjunhong.cn/2017/04/09/hello-world/</id>
+    <published>2017-04-09T02:07:18.000Z</published>
+    <updated>2017-04-11T16:12:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
